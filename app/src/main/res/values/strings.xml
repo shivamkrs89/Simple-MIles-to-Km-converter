@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JustDo</string>
+    <string name="Miles_into_Kilometers">Miles Into Kilometers</string>
+    <string name="miles">MILES</string>
+    <string name="Klometers_into_Miles">Kilometers into miles</string>
+    <string name="kilometers">KILOMETERS</string>
+</resources>

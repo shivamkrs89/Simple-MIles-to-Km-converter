@@ -1,0 +1,2 @@
+rootProject.name='JustDo'
+include ':app'
